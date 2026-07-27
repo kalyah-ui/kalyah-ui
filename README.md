@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/kalyah-ui">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a1428&fontSize=54&height=90&width=666&text=Hello%2C%20I'm%20Kalyah!" alt="Hello, I&#39;m Kalyah!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=666&text=Hello%2C%20I'm%20Kalyah!" alt="Hello, I&#39;m Kalyah!" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20computer%20engineering%20student%20that%20loves%20to%20solve%20complex%20problems;Welcome%20to%20my%20Github%20(%3A" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20computer%20systems%20engineering%20student%20that%20loves%20to%20solve%20complex%20problems;Welcome%20to%20my%20GitHub%20(%3A" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -45,14 +45,14 @@ I love learning new things and am currently orbiting between school, side projec
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kalyah-ui&cache_seconds=1&show_icons=true&theme=tokyonight&title_color=8a1428&icon_color=8a1428&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kalyah-ui&layout=compact&cache_seconds=1&theme=tokyonight&title_color=8a1428&icon_color=8a1428&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kalyah-ui&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kalyah-ui&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalyah-ui&bg_color=00000000&color=8a1428&line=8a1428&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalyah-ui&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
