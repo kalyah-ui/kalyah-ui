@@ -52,7 +52,7 @@ I love learning new things and am currently orbiting between school, side projec
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kalyah-ui&bg_color=00000000&color=8a1428&line=8a1428&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalyah-ui&bg_color=00000000&color=8a1428&line=8a1428&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
