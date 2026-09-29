@@ -12,7 +12,7 @@
 
 I love learning new things and am currently orbiting between school, side projects, and co-op terms. When I'm not coding, I'm probably redesigning something that didn't ask to be redesigned, or discussing the effects of entering a black hole with my friends.
 
-🔭 &nbsp;I'm currently working on **a satellite telemetry streaming system**  
+🔭 &nbsp;I'm currently working on **a million hackathon projects**  
 🌱 &nbsp;I'm currently learning **Docker**  
 😄 &nbsp;Pronouns: **she/her**
 
